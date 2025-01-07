@@ -1,4 +1,4 @@
-### Optimising the log-likelihood function for a multivariate linear regression model.
+## Optimising the log-likelihood function for a multivariate linear regression model.
 
 df <- with(mtcars, data.frame(y=mpg, x1=disp, x2=hp, x3=wt))
 
